@@ -1,7 +1,9 @@
 package com.deni.pariwisata.view
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.deni.pariwisata.R
 
 /**
@@ -15,5 +17,12 @@ class MenuTownSquareActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu_town_square)
         title = getString(R.string.menu_town_square)
+    }
+
+    fun MenuTSClick(view: View) {
+        var intent = Intent(this, HotelDetailActivity::class.java)
+        var id = view.getId()
+        intent.putExtra("ID_TS", id);
+        startActivity(intent)
     }
 }

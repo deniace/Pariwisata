@@ -121,4 +121,31 @@ Tarif menginap di Hotel SM Cibitung mulai dari Rp 160 ribu per malam.
 Fasilitas yang bisa kamu nikmati berupa area parkir kendaraan luas, restoran hotel, kamar tidur dilengkapi wifi dan ber-AC, hingga kamar mandi dilengkapi shower.
 
 Hotel SM Cibitung dekat dengan McDonalds - Cibitung, Go! Wet Waterpark, dan President University Jababeka.</string>
+
+    <!-- dikutip dari https://www.gotomalls.com/articles/10-mall-terbesar-di-bekasi?country=0&lang=id-->
+
+    <string name="ts_1_judul" translatable="false">Revo Town</string>
+    <string name="ts_1_deskripsi" translatable="false">Menjadi shopping mall yang terbesar adalah Revo Town. Dulunya pusat perbelanjaan ini bernama Bekasi Square yang juga disertai dengan renovasi pada bangunan menjadi lebih modern dan nyaman bagi pengunjung. Mengusung tagline “Simply a place for togetherness and family quality time”, Revo Town ingin menghadirkan pusat perbelanjaan untuk para pengunjungnya bersuka ria dengan keluarga dan sahabat.
+
+Dengan luas hingga 4 Hektar, mall ini hadir dengan ratusan merchant di keempat lantainya. Tak hanya menyuguhkan tempat berbelanja dan hiburan, kamu juga tetap bisa beribadah di sini dan beristirahat di restroom yang sudah disediakan. Untuk mengunjunginya, kamu harus menuju ke Jl. Jend. Ahmad Yani Kav. 1, Pekayon Jaya, Bekasi Selatan. Bersiaplah untuk merasa betah berlama-lama di sana karena desain interior nya yang cozy dan unik.</string>
+
+    <string name="ts_2_judul" translatable="false">Mal Metropolitan</string>
+    <string name="ts_2_deskripsi" translatable="false">Di urutan kedua ada Mal Metropolitan yang memiliki luas hingga 3,5 Hektar. Dengan slogan “Dunia Belanja dan Rekreasi”, mall ini memang tak hanya sebagai tempat belanja saja, tapi juga menjadi tempat rekreasi yang asyik bagi pengunjungnya. Mall yang dibangun pada tahun 1993 ini merupakan mall kelas menengah pertama di pusat bisnis Kota Bekasi dan terhubung dengan Hotel Horison Ultima Bekasi.
+
+Aneka tempat belanja fashion, kuliner, bioskop, hingga tempat bermain anak bisa kamu temukan di sini. Lokasinya pun sangat strategis karena diapit oleh jalan tol Jakarta – Cikampek dan Kalimalang, sehingga memudahkanmu untuk berkunjung ke sana, baik dari Jakarta maupun Bekasi. Ada lebih dari 300 tenant, dijamin kamu pasti merasakan kepuasan dan kenyaman saat mengunjungi mall ini. Langsung saja datang ke lokasinya di Jl. KH. Noer Ali Mal Metropolitan Building South Bekasi.</string>
+
+    <string name="ts_3_judul" translatable="false">Bekasi Cyber Park</string>
+    <string name="ts_3_deskripsi" translatable="false">Kalau kamu sedang membutuhkan komputer atau gadget, Bekasi Cyber Park (BCP) adalah tempat yang wajib kamu datangi. Sebagai pusat belanja IT terbesar di kota Bekasi, BCP menawarkan harga produk yang murah dengan kualitas baik dan lengkap.
+
+Beralamatkan di Jalan K.H. Noer Alie, Kayuringin Jaya, Bekasi Selatan, Bekasi, ada lebih dari 200 tenant yang siap memanjakan para pengunjungnya untuk berbelanja, tak hanya IT saja tapi juga kebutuhan lainnya. Kamu juga bisa menikmati kuliner di sini karena tersedia ragam masakan dari restoran yang menggugah selera, ataupun menonton bioskop di CGV.</string>
+
+    <string name="ts_4_judul" translatable="false">Grand Mall Bekasi</string>
+    <string name="ts_4_deskripsi" translatable="false">Salah satu mall favorit masyarakat Bekasi adalah Grand Mall Bekasi. Tenant-tenant nya yang lengkap memberikan banyak kemudahan kepada pengunjung dalam satu lokasi yang sangat strategis. Pengunjung bisa berbelanja, makan, menikmati hiburan, ataupun bersantai dan berkumpul bersama keluarga dan teman.
+
+Lokasinya ada di Jalan Jenderal Sudirman No. 1, Kranji, Medan Satria, Harapan Mulya, Medan Satria, Bekasi. Lokasi ini memudahkan siapa saja untuk berkunjung ke sana. Pengunjung pun akan merasakan kenyamanan dan kemudahan saat berada di sini untuk memenuhi kebutuhannya.</string>
+
+    <string name="ts_5_judul" translatable="false">Summarecon Mal Bekasi</string>
+    <string name="ts_5_deskripsi" translatable="false">Beralamatkan di Jl. Boulevard Ahmad Yani Blok M Sentra Summarecon Bekasi Bekasi Utara, Summarecon Mal Bekasi (SMB) secara resmi dibuka pada tanggal 28 Juni 2013. Dengan luas bangunan 80.000 m2, mall ini terdiri dari 4 lantai dan 1 lantai basement yang mampu menampung 3200 mobil dan 3200 motor.
+
+Menghadirkan kurang lebih 220 tenant ternama, pengunjung akan dimanjakan dengan kemudahan dalam berbelanja, menyantap kuliner, menikmati hiburan, hingga bercengkrama. Desain bangunannya pun sangat memberikan kenyamanan pengunjung melalui konsep modern minimalis yang tentunya disertai dengan fasilitas lengkap, seperti tempat ibadah, toilet bersih, tempat menyusui, dan sebagainya.</string>
 </resources>

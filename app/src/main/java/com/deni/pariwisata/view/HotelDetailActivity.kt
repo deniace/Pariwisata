@@ -44,7 +44,7 @@ class HotelDetailActivity : AppCompatActivity() {
         when (idHotel) {
             R.id.hotel_1 -> {
                 binding.toolbarLayout.title = resources.getString(R.string.hotel_1_judul)
-                binding.ivDetailImageHotel.setImageResource(R.drawable.koma_junkyard_cafe)
+                binding.ivDetailImageHotel.setImageResource(R.drawable.hotel_1_image)
                 binding.tvDeskripsiHotel.text = resources.getString(R.string.hotel_1_deskripsi)
             }
             R.id.hotel_2 -> {
