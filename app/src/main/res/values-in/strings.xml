@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pariwisata</string>
+    <string name="deni_ace">Deni Ace (Deni Supriyatna)</string>
+    <string name="created_by">Dibuat Oleh</string>
+    <string name="wisata_kota_bekasi">Wisata Kota Bekasi</string>
+    <string name="bekasi_kota_tujuan_pariwisata">Bekasi Kota Tujuan Pariwisata</string>
+    <string name="about">Tentang</string>
+    <string name="start">Mulai</string>
+    <string name="exit">Keluar</string>
+    <string name="menu">Menu</string>
+    <string name="judul_profile">Profile Pembuat Aplikasi</string>
+    <string name="full_name">Deni Supriyatna</string>
+    <string name="nick_name">Deni Ace</string>
+    <string name="wisata">Wisata</string>
+    <string name="restoran">Restoran</string>
+    <string name="hotel">Hotel</string>
+    <string name="town_square">Town Square</string>
+    <string name="profile">Profile</string>
+    <string name="image_detail">Gambar Detail</string>
+    <string name="more">Lebih</string>
+    <string name="menu_wisata">Menu Wisata</string>
+    <string name="email">denisupriyatna01@gmail.com</string>
+    <string name="menu_restoran">Menu Restoran</string>
+    <string name="menu_town_square">Menu Town Square</string>
+    <string name="menu_hotel">Menu Hotel</string>
+</resources>

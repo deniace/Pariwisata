@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    Created by Deni Supriyatna (deni ace) on 22 - 05 - 2020.-->
+<!--    Email : denisupriyatna01@gmail.com-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadius="0dp"
+    android:shape="ring"
+    android:thicknessRatio="1.9"
+    android:useLevel="false">
+    <solid android:color="@android:color/transparent"/>
+    <stroke android:width="5dp"
+        android:color="@android:color/white"/>
+</shape>

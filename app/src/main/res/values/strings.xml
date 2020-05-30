@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pariwisata</string>
+    <string name="deni_ace">Deni Ace (Deni Supriyatna)</string>
+    <string name="created_by">Created By</string>
+    <string name="wisata_kota_bekasi">Bekasi city tour</string>
+    <string name="bekasi_kota_tujuan_pariwisata">Bekasi Tourism Destination</string>
+    <string name="about">About</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="menu">Menu</string>
+    <string name="judul_profile">Application Maker Profile</string>
+    <string name="full_name">Deni Supriyatna</string>
+    <string name="nick_name">Deni Ace</string>
+    <string name="wisata">Tour</string>
+    <string name="restoran">Restaurant</string>
+    <string name="hotel">Hotel</string>
+    <string name="town_square">Town Square</string>
+    <string name="profile">Profile</string>
+
+    <!-- Untuk wisata -->
+    <!-- di kutip dari https://www.nativeindonesia.com/tempat-wisata-di-bekasi/ -->
+    <string name="wisata_1_judul" translatable="false">Curug Parigi</string>
+    <string name="wisata_1_deskripsi" translatable="false">Berada di tengah kawasan industri yang padat, tempat wisata di Bekasi yang kerap disebut Niagara mini ini memang sedikit tersembunyi. Dengan lebar hingga 20 meter serta ketinggian 2 meter dengan arus air yang stabil tak terlalu deras, tak salah memang jika Curug Parigi disebut demikian.
+
+Dengan pepohonan hijau di sekitarnya, tentu menambah Susana asri yang menyenangkan. Sehingga banyak yang menjadikannya sebagai spot foto selfi hingga preweding.</string>
+
+    <string name="wisata_2_judul" translatable="false">Situ Cibereum</string>
+    <string name="wisata_2_deskripsi" translatable="false">Tempat wisata di Bekasi selanjutnya yang juga memiliki pesona alam luar biasa di tengah pesatnya pembangunan ialah Situ Cibereum. Dibalik pesonanya, danau yang terbentuk secara alami ini ternyata juga menyimpan legenda yang membuat banyak orang penasaran dengannya. Di danau yang kini tinggal seluas 2 hektar ini konon dihuni buaya putih yang diyakini sebagai penunggu oleh masyarakat sekitar.
+
+Terlepas dari sisi mistik yang dimilikinya, Situ Cibereum ini pun menawarkan banyak aktivitas menarik yang bisa Anda lakukan bersama keluarga. Seperti menjelajahi danau, mancing hingga nongkrong sambil menikmati kuliner yang dijajakan di tepi kawasan danau.</string>
+
+    <string name="wisata_3_judul" translatable="false">Danau Marrakash</string>
+    <string name="wisata_3_deskripsi" translatable="false">Berlokasi di kawasan Kompleks Perumahan Pesona Ungu, Danau Marakas menjadi satu destinasi yang menarik untuk dikunjungi bersama keluarga. Meski awalnya hanya dibuat sebagai tempat penampungan air bagi warga perumahan. Namun seiring waktu banyak yang tertarik dengan pesonanya sehingga kini kawasan danau pun telah dilengkapi dengan berbagai macam permainan seru serta kuliner yang menggoda.
+
+Di dekat danau juga terdapat kolam renang serta fasilitas penunjang yang lain yang akan membuat liburan bersama keluarga makin asyik. Jika Anda ingin menghabiskan malam di dekat danuau, ada juga fasilitas guest house yang bisa disewa, lho.</string>
+
+    <string name="wisata_4_judul" translatable="false">Jembatan Cinta</string>
+    <string name="wisata_4_deskripsi" translatable="false">Jembatan Cinta bisa jadi tujuan menarik untuk sejenak melepaskan penat dari aktivitas pekerjaan yang tak ada habisnya. Terletak di tengah kawasan Pusat Restorasi dan Pembelajaran Mangrove di Tarumajaya, tempat wisata di Bekasi tersebut mungkin belum banyak diketahui. Meski demikian pesona yang dimiliki destinasi wisata ini tak kalah memukau dari destinasi serupa yang ada di Kepulauan Seribu.
+
+Anda dapat menjelajahi keindahan hutan mangrove lebih dekat dari atas jembatan atau bisa juga menyewa perahu yang disediakan.  Di sekitar hutan mangrove juga terlihat banyak nelayan menangkap ikan, ini bisa jadi pemandangan unik tersendiri yang bisa diabadikan.</string>
+
+    <string name="wisata_5_judul" translatable="false">Rumah Pohon Jatiasih</string>
+    <string name="wisata_5_deskripsi" translatable="false">Suka menghabiskan waktu di tengah alam terbuka? Cobalah mampir ke Rumah Pohon yang berada di kawasan Jatiasih – Bekasi. Banyak hal menarik yang disuguhkan di sini yang bisa Anda jelajahi terutama rumah-rumah yang dibangun di atas pohon besar. Selain itu tempat wisata di Bekasi yang satu ini juga bisa jadi spot foto yang instagramable, sebab memiliki desain yang sangat unik.
+
+Destinasi yang satu ini menawarkan wisata dengan konsep ramah lingkungan, tak heran jika suasananya begitu asri dan damai. Fasilitas lainnya yang bisa Anda nikmati seperti danau untuk kegiatan memancing, arena outbond seru yang bisa disesuaikan dengan usia. Lalu Anda juga bisa menjelajahi kawasan disekitar rumah pohon dengan mengendarai ATV hingga berwisata kuliner.</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="more">More</string>
+    <string name="menu_wisata">Tourism Menu</string>
+    <string name="email">denisupriyatna01@gmail.com</string>
+
+
+    <!--dikutip dari  https://www.gotravelly.com/blog/tempat-makan-keluarga-di-bekasi/ -->
+
+    <string name="restoran_1_judul" translatable="false">Koma Junkyard Cafe</string>
+    <string name="restoran_1_deskripsi" translatable="false">Jika Anda mengunjungi Bekasi khususnya Bekasi Timur, Anda tidak usah khawatir untuk takut merasa kelaparan. Karena ada Koma Junkyard Cafe yang menyediakan beragam menu, seperti Magelangan, waffle, burger, takoyaki, kupat tahu dan lain-lain. Tempat makan ini menyediakan mulai dari makanan yang tradisional hingga makanan yang kekinian.
+Selain untuk makan bersama keluarga, tempat ini juga cocok untuk nongkrong dan ngobrol bersama teman-teman. Suasana di Koma Junkyard Cafe sangat santai dan menarik, aka nada live music yang akan selalu menemani saat menyantap hidangan.</string>
+
+    <string name="restoran_2_judul" translatable="false">Eat Happens</string>
+    <string name="restoran_2_deskripsi" translatable="false">Tempat makan ini memang terkenal sangat unik, karena menyediakan menu-menu seperti martabak, kue cubit, hungry john dan nasi goreng hitam. Meskipun kafe ini terkenal sebagai tempat tongkrongan bagi pecinta martabak, Anda dan keluarga juga dapat mengunjungi untuk mencicipi menu-menu yang tersedia.
+Dengan membawa anggota keluarga atau teman-teman ke Eat Happens maka suasana kekeluargaan dan pertemanan akan semakin akrab. Karena nuansa cafe yang modern dan kekinian membuat pengunjung bisa bersantai dan bercanda ria.</string>
+
+    <string name="restoran_3_judul" translatable="false">Bakmi GM Metropolitan</string>
+    <string name="restoran_3_deskripsi" translatable="false">Bagi Anda yang menyukai menu-menu mie, Anda wajib untuk datang ke Bakmi GM Metropolitan, bakmi ini berbeda dari bakmi-bakmi lain, karena memiliki tekstur mie yang kenyal dan tipis dibandingkan dengan mie-mie lain.
+Untuk masalah harga, Anda tidak usah khawatir, karena harga yang ditawarkan sangat ramah di kantong.
+Menu-menu yang tersedia di Bakmi GM Metropolitan antara lain, Bakmi Sapi Cah Cabai, Nasi Ayam Cah Cabai, Bakmi Ayam Saus Thai, Bakmi Goreng GM, Nasi Goreng Smoked Chicken, Bakmi Sapi Cah Cabai dan lain-lain.
+Lokasi Bakmi ini terletak di Mal Metropolitan 2 Lantai II Bekasi Selatan.</string>
+
+    <string name="restoran_4_judul" translatable="false">Raja Sunda</string>
+    <string name="restoran_4_deskripsi" translatable="false">Tempat makan keluarga di Bekasi selanjutnya adalah rumah makan Raja Sunda, tempat makan ini menyediakan berbagai masakan Sunda seperti, dara goreng, tahu tempe, ikan asin, dan lalapan. Rumah makan ini memiliki suasana yang unik dan harga yang sangat terjangkau. Raja Sunda mulai buka dari jam sepuluh pagi sampai sepuluh makam.</string>
+
+    <string name="restoran_5_judul" translatable="false">Masturiya</string>
+    <string name="restoran_5_deskripsi" translatable="false">Masturiya merupakan restoran Jepang yang ada di Bekasi, restoran ini tidak kalah dengan restoran-restoran Jepang yang ada di Jakarta.
+Untuk segi harga, restoran Masturiya di Bekasi tergolong tidak terlalu mahal. Lokasi Masturiya terletak di Jalan Kemang Boulevard Kav. 05 B. Restoran ini mulai buka dari jam sepuluh pagi hingga sepuluh malam.</string>
+    <string name="menu_restoran">Menu Restoran</string>
+    <string name="menu_town_square">Menu Town Square</string>
+    <string name="menu_hotel">Menu Hotel</string>
+
+
+    <!-- dikutio dari https://jenishotel.info/penginapan-dan-hotel-murah-di-bekasi    -->
+    <!-- https://penginapan.net/losmen-dan-penginapan-murah-di-bekasi/ -->
+    <string name="hotel_1_judul" translatable="false">Losmen Kebun Indah Jatiasih</string>
+    <string name="hotel_1_deskripsi" translatable="false">Penginapan ini terletak di Jl. Wibawa Mukti No. 46, Kampung Pedurenan, Jatiluhur, Jatiasih, Bekasi. Losmen Kebun Indah merupakan satu-satunya losmen di pinggiran Jakarta yang bertemakan suasana perkebunan yang indah. Untuk kamarnya, Losmen Kebun Indah menawarkan tiga tipe kamar yang telah dilengkapi fasilitas AC, TV, kamar mandi dalam hingga ranjang tipe queen size atau king bed.
+
+Selain itu, jika Anda ingin menginap di Losmen Kebun Indah Jatiasih, Anda bisa memilih beberapa tipe kamar yang ada. Pada kamar tipe Standard, Anda bisa menikmati fasilitas yang nyaman yang disediakan oleh pihak losmen. Untuk fasilitas yang ada, antara lain  AC, TV, queen size bed, kamar mandi dalam, meja, kursi. Pada hari biasa, Anda perlu menganggarkan tarif mulai Rp200 ribu per malamnya. Ini berbeda dengan tarif di hari libur, yaitu mulai Rp220 ribu per malamnya.
+
+Berbeda dengan tipe kelas Bisnis, pada jenis kelas Bisnis Anda bisa menikmati fasilitas lebih lengkap dan nyaman. Untuk fasilitas kamar pada kelas bisnis, yaitu LCD TV, AC, king size bed, kamar mandi dalam, meja, dan kursi. Pada hari biasa, Anda perlu mengeluarkan uang mulai Rp220 ribu per malamnya. Sementara, jika Anda ingin menginap di hari libur, Anda perlu mengeluarkan uang mulai Rp242 ribu per malam.
+
+Kamar dengan fasilitas terlengkap di Losmen Indah Jatiasih, yaitu kamar kelas VIP. Kamar ini memiliki fasilitas lengkap, seperti LCD TV, kulkas mini, king size bed, AC, kamar mandi dalam, meja, kursi, dan water heater. Karena punya fasilitas sangat lengkap, Anda harus menyisihkan uang lebih banyak jika ingin menginap di kamar VIP. Pada hari biasa atau weekdays, Anda perlu membayar mulai Rp245 ribu per malamnya. Sementara, pada hari libur, Anda perlu mengeluarkan uang mulai Rp269 ribu per malamnya.
+
+Jika berminat, bisa melakukan reservasi melalui nomor telepon (021) 8209654. Reservasi juga bisa dilakukan melalui nomor HP 081311220201.</string>
+
+    <string name="hotel_2_judul" translatable="false">Losmen Guntari</string>
+    <string name="hotel_2_deskripsi" translatable="false">Penginapan ini terletak di Jln. Pilar Sukatani No. 77, RT 03 RW 03, Karang Bahagia, Cikarang, Bekasi. Losmen Guntari merupakan penginapan sederhana yang nyaman dan sangat strategis karena dekat dengan Waterboom Cikarang. Banyak pengunjung losmen merupakan wisatawan yang lelah menikmati wisata Waterboom Cikarang.
+
+Fasilitas yang tersedia di penginapan ini mulai bed king size, AC, LCD TV, hingga sarapan bagi para tamu. Adapun tarif kamar, mulai Rp200 ribu per malam. Jika berminat, bisa melakukan reservasi di nomor telepon 021-89111334, 087877570446, atau 081296495457.
+
+</string>
+
+    <string name="hotel_3_judul" translatable="false">RedDoorz @ Pekayon Bekasi</string>
+    <string name="hotel_3_deskripsi" translatable="false">Akomodasi ini terletak di Jalan Raya Pekayon Kampung Poncol Jaka Setia RT 04 RW 01 No. 73, Pekayon, Bekasi. RedDoorz @ Pekayon Bekasi menjamin istirahat yang nyaman dengan fasilitas meliputi WiFi gratis hingga TV satelit dan air mineral.
+
+Ada 20 kamar single yang ditawarkan di RedDoorz @ Pekayon Bekasi. Tarif per malam di penginapan ini dikenakan mulai Rp185.950, belum termasuk sarapan. Jika Anda ingin mendapatkan fasilitas sarapan, Anda harus melakukan pemesanan terlebih dahulu. Pemesanan makanan bisa Anda lakukan secara langsung melalui resepsionis atau para pelayan di losmen. Harga hidangan untuk sarapan tergantung dari menu makanan dan jumlah yang Anda pesan.</string>
+
+    <string name="hotel_4_judul" translatable="false">The Home</string>
+    <string name="hotel_4_deskripsi" translatable="false">Akomodasi ini beralamat di Apartment Center Point B17/15, Bekasi Selatan. The Home berada tak jauh dari tempat populer di Bekasi semisal Bekasi Cyber Park, Guardian Mall Metropolitan, hingga Funworld. Penginapan ini cocok bagi Anda yang ingin mengunjungi tempat-tempat wisata di saat liburan di Bekasi.
+
+Untuk saat ini, penginapan dengan nama The Home Bekasi sudah sangat terkenal dan terbilang populer di Bekasi. Lokasinya yang strategis, membuat The Home selalu ramai pengunjung. Kebanyakan pengunjung adalah wisatawan yang ingin mengeksplorasi wilayah Bekasi. Bagi Anda yang menginap di penginapan ini, maka Anda bisa menikmati banyak sekali fasilitas.
+
+Ada dua kamar yang ditawarkan di penginapan ini dan telah dilengkapi fasilitas AC, parkir gratis, hingga fasilitas karaoke. Untuk fasilitas karaoke, Anda perlu melakukan pemesanan pelayanan terlebih dahulu. Pemesanan fasilitas karaoke bisa langsung Anda lakukan di resepsionis atau pelayan hotel
+
+Kamar tipe Standar dibanderol dengan tarif mulai Rp300 ribu per malam. Jika Anda berminat untuk bermalam di The Home Bekasi, Anda bisa memesan kamar menggunakan aplikasi OYO. Akan lebih mudah dan praktis, Anda juga tidak perlu melakukan reservasi melalui telepon di (021) 88361234.
+
+Itulah rekomendasi losmen dan penginapan yang ada di Bekasi. Harga di atas dapat berubah sewaktu-waktu tergantung dari kebijakan masing-masing penginapan.</string>
+
+    <!--  dikitip dari   https://travel.tribunnews.com/2019/06/13/6-hotel-murah-di-bekasi-dengan-tarif-inap-mulai-rp-100-ribu-per-malam-->
+    <string name="hotel_5_judul" translatable="false">Hotel SM Cibitung</string>
+    <string name="hotel_5_deskripsi" translatable="false">Hotel SM Cibitung terletak di Jalan Teuku Umar KM 45 No. 97, Cibitung, Cikarang, Bekasi, Jawa Barat.
+Tarif menginap di Hotel SM Cibitung mulai dari Rp 160 ribu per malam.
+
+Fasilitas yang bisa kamu nikmati berupa area parkir kendaraan luas, restoran hotel, kamar tidur dilengkapi wifi dan ber-AC, hingga kamar mandi dilengkapi shower.
+
+Hotel SM Cibitung dekat dengan McDonalds - Cibitung, Go! Wet Waterpark, dan President University Jababeka.</string>
+</resources>
