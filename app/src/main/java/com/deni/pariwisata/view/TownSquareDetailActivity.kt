@@ -18,7 +18,6 @@ import kotlinx.android.synthetic.main.activity_wisata_detail.*
 
 class TownSquareDetailActivity : AppCompatActivity() {
 
-    // TODO: Blum tampil
     lateinit var binding: ActivityTownSquareDetailBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
