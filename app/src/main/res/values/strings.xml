@@ -148,4 +148,26 @@ Lokasinya ada di Jalan Jenderal Sudirman No. 1, Kranji, Medan Satria, Harapan Mu
     <string name="ts_5_deskripsi" translatable="false">Beralamatkan di Jl. Boulevard Ahmad Yani Blok M Sentra Summarecon Bekasi Bekasi Utara, Summarecon Mal Bekasi (SMB) secara resmi dibuka pada tanggal 28 Juni 2013. Dengan luas bangunan 80.000 m2, mall ini terdiri dari 4 lantai dan 1 lantai basement yang mampu menampung 3200 mobil dan 3200 motor.
 
 Menghadirkan kurang lebih 220 tenant ternama, pengunjung akan dimanjakan dengan kemudahan dalam berbelanja, menyantap kuliner, menikmati hiburan, hingga bercengkrama. Desain bangunannya pun sangat memberikan kenyamanan pengunjung melalui konsep modern minimalis yang tentunya disertai dengan fasilitas lengkap, seperti tempat ibadah, toilet bersih, tempat menyusui, dan sebagainya.</string>
+
+    <!--    dikutip dari https://id.wikipedia.org/wiki/Kota_Bekasi-->
+
+    <string name="sejarah_bekasi" translatable="false">Kota Bekasi ternyata mempunyai sejarah yang sangat panjang dan penuh dinamika. Ini dapat dibuktikan perkembangannya dari zaman ke zaman, sejak zaman Hindia Belanda, pendudukan militer Jepang, perang kemerdekaan dan zaman Republik Indonesia. Di zaman Hindia Belanda, Bekasi masih merupakan Kewedanaan (District), termasuk Regenschap (Kabupaten) Meester Cornelis. Saat itu kehidupan masyarakatnya masih di kuasai oleh para tuan tanah keturunan Tionghoa.
+
+Kondisi ini terus berlanjut sampai pendudukan militer Jepang. Pendudukan militer Jepang turut mengubah kondisi masyarakat saat itu. Jepang melaksanakan Japanisasi di semua sektor kehidupan. Nama Batavia diganti dengan nama Jakarta. Regenschap Meester Cornelis menjadi KEN Jatinegara yang wilayahnya meliputi Gun Cikarang, Gun Kebayoran dan Gun Matraman.Setelah proklamasi kemerdekaan RI tanggal 17 Agustus 1945, struktur pemerintahan kembali berubah, nama Ken menjadi Kabupaten, Gun menjadi Kewedanaan, Son menjadi Kecamatan dan Kun menjadi Desa/Kelurahan. Saat itu Ibu Kota Kabupaten Jatinegara selalu berubah-ubah, mula-mula di Tambun, lalu ke Cikarang, kemudian ke Bojong (Kedung Gede).
+
+Pada waktu itu Bupati Kabupaten Jatinegara adalah Bapak Rubaya Suryanaatamirharja.Tidak lama setelah pendudukan Belanda, Kabupaten Jatinegara dihapus, kedudukannya dikembalikan seperti zaman Regenschap Meester Cornelis menjadi Kewedanaan. Kewedanaan Bekasi masuk kedalam wilayah Batavia En Omelanden. Batas Bulak Kapal ke Timur termasuk wilayah negara Pasundan di bawah Kabupaten Kerawang, sedangkan sebelah Barat Bulak Kapal termasuk wilayah negara Federal sesuai Staatsblad Van Nederlandsch Indie 1948 No. 178 Negara Pasundan.
+
+    Sejarah setelah tahun 1949, ditandai dengan aksi unjuk rasa sekitar 40.000 rakyat Bekasi pada tanggal 17 Februari 1950 di alun-alun Bekasi. Hadir pada acara tersebut Bapak Mu’min sebagai Residen Militer Daerah V. Inti dari unjuk rasa tersebut adalah penyampaian pernyataan sikap sebagai berikut:
+
+Rakyat bekasi mengajukan usul kepada Pemerintah Pusat agar Kabupaten Jatinegara diubah menjadi Kabupaten Bekasi. Rakyat Bekasi tetap berdiri di belakang Pemerintah Negara Kesatuan Republik Indonesia.
+
+Dan berdasarkan UU Nomor 14 Tahun 1950 terbentuklah Kabupaten Bekasi, dengan wilayah terdiri dari 4 kewedanaan, 13 kecamatan (termasuk Kecamatan Cibarusah) dan 95 desa. Angka-angka tersebut secara simbolis diungkapkan dalam lambang Kabupaten Bekasi dengan motto "SWATANTRA WIBAWA MUKTI".
+
+Pada tahun 1960 kantor Kabupaten Bekasi berpindah dari Jatinegara ke kota Bekasi (jl. H Juanda). Kemudian pada tahun 1982, saat Bupati dijabat oleh Bapak H. Abdul Fatah Gedung Perkantoran Pemda Kabupaten Bekasi kembali dipindahkan ke Jl. A. Yani No.1 Bekasi. Pasalnya perkembangan Kecamatan Bekasi menuntut dimekarkannya Kecamatan Bekasi menjadi Kota Administratif Bekasi yang terdiri atas 4 kecamatan berdasarkan Peraturan Pemerintah Nomor 48 Tahun 1981, yaitu Kecamatan Bekasi Timur, bekasi Selatan, Bekasi Barat dan Bekasi Utara, yang seluruhnya menjadi 18 kelurahan dan 8 desa
+
+Peresmian Kota Administratif Bekasi dilakukan oleh Menteri Dalam Negeri pada tanggal 20 April 1982, dengan wali kota pertama dijabat oleh Bapak H. Soedjono (1982 – 1988). Tahun 1988 Wali kota Bekasi dijabat oleh Bapak Drs. Andi Sukardi hingga tahun 1991 (1988 - 1991, kemudian diganti oleh Bapak Drs. H. Khailani AR hingga tahun (1991 – 1997)
+
+Pada Perkembangannya Kota Administratif Bekasi terus bergerak dengan cepat. Hal ini ditandai dengan pertumbuhan penduduk yang cukup tinggi dan roda perekonomian yang semakin bergairah. Sehingga status Kotif. Bekasi pun kembali di tingkatkan menjadi Kotamadya (sekarang "Kota") melalui Undang-undang Nomor 9 Tahun 1996 Menjabat Walikotamadya Kepala Daerah Tingkat II Bekasi saat itu adalah Bapak Drs. H. Khailani AR, selama satu tahun (1997-1998).
+
+Selanjutnya berdasarkan hasil pemilihan terhitung mulai tanggal 23 Pebruari 1998 Walikotamadya Kepala Daerah Tingkat II Bekasi definitif dijabat oleh Bapak Drs. H Nonon Sonthanie (1998-2003). Setelah pemilihan umum berlangsung terpilihlah Wali kota dan Wakil Wali kota Bekasi yaitu: Akhmad Zurfaih dan Moechtar Muhammad (perode 2003 - 2008).</string>
 </resources>
